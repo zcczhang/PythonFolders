@@ -33,8 +33,7 @@ class PasswordTool:
         return False
 
     def check_letter_exist(self):
-        return (c.isalpha() for c in self.password)
-        # # for c in self.password:
-        # #     if c.isalpha():
-        # #         return True
-        # return False
+        for c in self.password:
+            if c.isalpha():
+                return True
+        return False
