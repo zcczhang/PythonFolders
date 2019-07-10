@@ -200,9 +200,8 @@ def savemoney():
 
 
 def pwt():
+    try_times = 5
     try:
-        try_times = 5
-
         while try_times > 0:
             password = passwordbox('Password: ', 'Setting the Password')
             password_tool = PasswordTool(password)
@@ -214,6 +213,7 @@ def pwt():
             else:
                 msgbox('Fail to Set!')
                 try_times -= 1
+                continue
         if try_times <= 0:
             msgbox('You reached the maximum attempts')
     except TypeError:
@@ -253,7 +253,7 @@ def main():
     elif call_str == alllist[4]:
         pwt()
     while 1:
-        if ccbox('Change another program?', str(datetime.now()), choices=['Yes', 'No']):
+        if ccbox('Change to another program?', str(datetime.now()), choices=['Yes', 'No']):
             main()
         else:
             sys.exit(0)
