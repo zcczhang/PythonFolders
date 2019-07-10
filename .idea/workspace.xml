@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b86811a9-f0d9-469f-9dda-f04fd697bd34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code folder/Projects/Dice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+              <folding>
+                <element signature="e#56#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code folder/STH/1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1811">
+              <caret line="77" column="36" lean-forward="true" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+              <folding>
+                <element signature="e#1#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code folder/STH/1'.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="151" column="46" lean-forward="true" selection-start-line="149" selection-start-column="45" selection-end-line="149" selection-end-column="46" />
+              <folding>
+                <element signature="e#40#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code folder/Knowledge/sth about Class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code folder/Projects/AQI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code folder/Projects/Class Period Statistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>x</find>
+      <find>list</find>
+      <find>format</find>
+      <find>济南</find>
+      <find>吐鲁番</find>
+      <find>拉萨</find>
+      <find>tuple</find>
+      <find>key</find>
+      <find>running</find>
+      <find>mainloop</find>
+      <find>show</find>
+      <find>filter</find>
+      <find>W</find>
+      <find>dicetlist</find>
+      <find>ndice</find>
+      <find>zip</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Chang666" />
+        <option value="CZ" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/conversion of exchange rate.py" />
+        <option value="$PROJECT_DIR$/Dice.py" />
+        <option value="$PROJECT_DIR$/Currency Converter.py" />
+        <option value="$PROJECT_DIR$/Pikachu.py" />
+        <option value="$PROJECT_DIR$/Draw.py" />
+        <option value="$PROJECT_DIR$/sth about Function.py" />
+        <option value="$PROJECT_DIR$/Sth.py" />
+        <option value="$PROJECT_DIR$/sth2.py" />
+        <option value="$PROJECT_DIR$/test place.py" />
+        <option value="$PROJECT_DIR$/code folder/test place.py" />
+        <option value="$PROJECT_DIR$/code folder/weather1.py" />
+        <option value="$PROJECT_DIR$/code folder/Weather1.py" />
+        <option value="$PROJECT_DIR$/code folder/Test Place.py" />
+        <option value="$PROJECT_DIR$/code folder/testplace.py" />
+        <option value="$PROJECT_DIR$/code folder/sth about Function.py" />
+        <option value="$PROJECT_DIR$/code folder/city.py" />
+        <option value="$PROJECT_DIR$/code folder/Draw.py" />
+        <option value="$PROJECT_DIR$/code folder/Days in a year.py" />
+        <option value="$PROJECT_DIR$/code folder/BMR calculator.py" />
+        <option value="$PROJECT_DIR$/code folder/Save Money.py" />
+        <option value="$PROJECT_DIR$/code folder/Currency Converter.py" />
+        <option value="$PROJECT_DIR$/code folder/4 in 1: convc/bmrc/day/save.py" />
+        <option value="$PROJECT_DIR$/code folder/4in1: convc; bmrc; day; save.py" />
+        <option value="$PROJECT_DIR$/code folder/Pickle method.py" />
+        <option value="$PROJECT_DIR$/code folder/4 in 1-convc; bmrc; day; save.py" />
+        <option value="$PROJECT_DIR$/code folder/Basic Code.py" />
+        <option value="$PROJECT_DIR$/code folder/.idea/temp file.py" />
+        <option value="$PROJECT_DIR$/code folder/.idea/1.py" />
+        <option value="$PROJECT_DIR$/code folder/Split a File.py" />
+        <option value="$PROJECT_DIR$/code folder/PasswordTool.py" />
+        <option value="$PROJECT_DIR$/code folder/sth about Class.py" />
+        <option value="$PROJECT_DIR$/code folder/tempt.py" />
+        <option value="$PROJECT_DIR$/code folder/Weather Forecast Visualization.py" />
+        <option value="$PROJECT_DIR$/code folder/n in 1-convc; bmrc; day; save.py" />
+        <option value="$PROJECT_DIR$/code folder/11.py" />
+        <option value="$PROJECT_DIR$/code folder/1.py" />
+        <option value="$PROJECT_DIR$/code folder/Dice.py" />
+        <option value="$PROJECT_DIR$/code folder/try.py" />
+        <option value="$PROJECT_DIR$/code folder/Projects/n in 1-convc; bmrc; day; save;pwtool.py" />
+        <option value="$PROJECT_DIR$/code folder/Projects/Pickle method.py" />
+        <option value="$PROJECT_DIR$/code folder/Projects/easygui with files.py" />
+        <option value="$PROJECT_DIR$/code folder/Projects/Class Period Statistics.py" />
+        <option value="$PROJECT_DIR$/code folder/Projects/Class Periods Record.txt" />
+        <option value="$PROJECT_DIR$/code folder/Projects/Dice.py" />
+        <option value="$PROJECT_DIR$/code folder/Knowledge/sth about Class.py" />
+        <option value="$PROJECT_DIR$/code folder/STH/1'.py" />
+        <option value="$PROJECT_DIR$/code folder/STH/1.py" />
+        <option value="$PROJECT_DIR$/code folder/Projects/AQI.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="745" />
+    <option name="y" value="23" />
+    <option name="width" value="935" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AnacondaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnacondaProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnacondaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnacondaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="code folder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnacondaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnacondaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="code folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Knowledge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnacondaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnacondaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="code folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnacondaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnacondaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="code folder" type="462c0819:PsiDirectoryNode" />
+              <item name="STH" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AnacondaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code folder/STH" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code folder/STH/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1'" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AnacondaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code folder/STH" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code folder/STH/1'.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AnacondaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code folder/Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code folder/Projects/Dice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Split a File" type="PythonConfigurationType" factoryName="Python">
+      <module name="AnacondaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code folder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code folder/Split a File.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Weather Forecast Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AnacondaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code folder/Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code folder/Projects/Weather Forecast Visualization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sth about Class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AnacondaProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code folder/Knowledge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code folder/Knowledge/sth about Class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.1'" />
+        <item itemvalue="Python.Dice" />
+        <item itemvalue="Python.sth about Class" />
+        <item itemvalue="Python.Weather Forecast Visualization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86811a9-f0d9-469f-9dda-f04fd697bd34" name="Default Changelist" comment="" />
+      <created>1562033751534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562033751534</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Python Project&#10;2019.7.10">
+      <created>1562746161944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562746161944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python Project&#10;2019.7.10">
+      <created>1562746498436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562746498436</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update&#10;2019.7.10">
+      <created>1562747172483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562747172483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993007" visible="true" weight="0.18987341" />
+      <window_info id="Structure" order="1" sideWeight="0.5006993" side_tool="true" weight="0.0693909" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32299465" />
+      <window_info anchor="bottom" x="163" y="160" width="1297" height="623" id="Run" order="2" sideWeight="0.49909583" weight="0.2631016" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989305" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996986" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50030136" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python Project&#10;2019.7.10" />
+    <MESSAGE value="update&#10;2019.7.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="update&#10;2019.7.10" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="file_name" />
+        <watch expression="f" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code folder/4 in 1: convc/bmrc/day/save.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/4in1: convc; bmrc; day; save.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Currency Converter.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Pickle method.py" />
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/AnacondaProjects/lib/python3.7/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Draw.py" />
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/AnacondaProjects/lib/python3.7/genericpath.py" />
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/AnacondaProjects/lib/python3.7/tkinter/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Pikachu.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Weather1.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/4 in 1-convc; bmrc; day; save.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/.idea/workspace.xml" />
+    <entry file="file://$PROJECT_DIR$/code folder/.idea/password_3.0.txt" />
+    <entry file="file://$PROJECT_DIR$/code folder/.idea/temp file.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/.idea/1.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/code folder/password_5.0.txt" />
+    <entry file="file://$PROJECT_DIR$/code folder/te.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Rom lines in scene 22.txt" />
+    <entry file="file://$PROJECT_DIR$/code folder/Split a File.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/11.py" />
+    <entry file="file://$PROJECT_DIR$/../anaconda3/python.app/Contents/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3657">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/sth about Class.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/sth about Function.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Basic Code.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Weather Forecast Visualization.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/PasswordTool.py" />
+    <entry file="file://$PROJECT_DIR$/../anaconda3/python.app/Contents/lib/python3.6/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="534" selection-start-line="534" selection-end-line="534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Dice.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/try.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/1.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/tempt.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/n in 1-convc; bmrc; day; save.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/class PasswordTool.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/PasswordTool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/hugedata_file.pk1" />
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/Pickle method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/Weather1.py" />
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/n in 1-convc; bmrc; day; save;pwtool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#457#777#0" />
+            <element signature="e#778#793#0" />
+            <element signature="e#1731#2377#0" />
+            <element signature="e#2413#3442#0" />
+            <element signature="e#3487#3615#0" />
+            <element signature="e#4588#4624#0" />
+            <element signature="e#4708#4937#0" />
+            <element signature="e#4961#5829#0" />
+            <element signature="e#4974#5764#0" />
+            <element signature="e#5847#6400#0" />
+            <element signature="e#6422#6856#0" />
+            <element signature="e#6891#7388#0" />
+            <element signature="e#7251#7388#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/Split a File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/Class Periods Record.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3/python.app/Contents/lib/python3.6/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="3990" selection-start-line="3990" selection-end-line="3990" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/Weather Forecast Visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Knowledge/Basic Code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="137" column="25" selection-start-line="137" selection-start-column="25" selection-end-line="137" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/easygui with files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/Dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="73" column="21" lean-forward="true" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+          <folding>
+            <element signature="e#56#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/STH/1'.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="151" column="46" lean-forward="true" selection-start-line="149" selection-start-column="45" selection-end-line="149" selection-end-column="46" />
+          <folding>
+            <element signature="e#40#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Knowledge/sth about Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/Class Period Statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/STH/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1811">
+          <caret line="77" column="36" lean-forward="true" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code folder/Projects/AQI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
