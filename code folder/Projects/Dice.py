@@ -7,6 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from collections import Counter
 
+
 class Dice:
     """
         Get and Combine Some Dice Rolling Result
@@ -77,7 +78,6 @@ def main():
     dice3 = Dice(1000, 6, 3)
     dice3.getscatterplt()
     dice3.gethistplt()
-
 
 
 if __name__ == '__main__':
