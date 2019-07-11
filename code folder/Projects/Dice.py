@@ -1,12 +1,11 @@
 # Author: CZ
-# Time: 2019-07-08 14:44 
+# Time: 2019-07-08 14:44
 """
     Dice
 """
 import numpy as np
 import matplotlib.pyplot as plt
 from collections import Counter
-
 
 class Dice:
     """
@@ -70,8 +69,15 @@ class Dice:
 
 
 def main():
-    dice = Dice(10000, 6, 3)
-    dice.gethistplt()
+    dice1 = Dice(10, 8, 3)
+    print('Result of 3 Dices with 8 faces rolling 10 times: \n', dice1.getndice())
+    dice2 = Dice(100, 6, 1)
+    print('times and frequency of each face: (face number: times/frequency)',
+          '\n', dice2.gett(), '\n', dice2.getf(dice2.gett()))
+    dice3 = Dice(1000, 6, 3)
+    dice3.getscatterplt()
+    dice3.gethistplt()
+
 
 
 if __name__ == '__main__':
