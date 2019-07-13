@@ -27,10 +27,8 @@ def usdcny():
     req = urllib.request.Request(url)
     f = urllib.request.urlopen(req)
     html = f.read().decode("utf-8")
-
     s = re.findall("{.*}", str(html))[0]
     sjson = json.loads(s)
-
     r = sjson["Data"][0][0][1]/10000
     return r
 # def convc1():

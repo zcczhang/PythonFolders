@@ -55,7 +55,7 @@ def main():
                 c = Label(group, text=value + ': ' + lang)
                 c.pack(anchor=W)
         Label(root1, text='今日' + weather_dict.get('data').get('ganmao'), fg='green')\
-            .place(x=285, y=10, height=40)  # 温馨提示
+            .place(x=245, y=10, height=40)  # 温馨提示
         Label(root1, text="Author: CZ")\
             .place(x=0, y=240, width=125, height=20)
         Label(root1, text='实时温度: '+weather_dict.get('data').get('wendu')+'℃ ', fg='blue') \
