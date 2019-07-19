@@ -133,7 +133,7 @@ def maxfactor(n):
         print('%d is a prime' % n)
 
 
-maxfactor(4)
+maxfactor(4)          # 2 is the max factor of 4
 
 
 
