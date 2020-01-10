@@ -1,9 +1,4 @@
-# !/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Author: dong
-# @Date: 2018-09-24 10:11:47
-# @Env: python 3.6
-# @Github: https://github.com/PerpetualSmile
+
 import turtle
 
 
